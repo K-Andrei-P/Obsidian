@@ -1,4 +1,0 @@
-dwadamdoa
-dwnidam
-dadmw
-ad
