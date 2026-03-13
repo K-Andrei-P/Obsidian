@@ -18,6 +18,11 @@ Vergänglichkeit des Menschen, Gott am Ende
 
 
 Expressionism:
+Thematik:
+
+Verschönerung des Todes wegen leid und Krieg
+Ich Zerfall
+Vater Sohn Streit : Kafka
 
 Kafka Literaturepoche einordnen
 
