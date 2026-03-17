@@ -10,6 +10,8 @@ Berechnungsweg:
 1. Lichtstrahl definieren
 2. Berechnung Spurpunkt auf gewünschten Ebene
 
+Minecraft
+
 Lichtstrahl definieren:
 
 Punktquelle L:

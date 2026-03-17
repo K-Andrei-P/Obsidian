@@ -48,9 +48,9 @@ Taking care of it means:
 - Prayer
 - Changing Life in desperate times
 
---> Helping the Kingdom of God
+--> Helping to complete the Kingdom of God
 
-This tension between already there, but not yet complete is called the [[Eschatological Reservation]]. 
+This tension between already there, but not yet complete is called the [[Eschatological Reservation]] (Eschatologische Vorbehalt). 
 
 **How is this relevant today?**
 
