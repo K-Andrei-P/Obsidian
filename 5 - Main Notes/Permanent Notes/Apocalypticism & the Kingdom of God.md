@@ -14,7 +14,7 @@ Apocalyptic prophecies emerged in times of deep suffering:
 - Famine
 - Disease
 
-People became desperate and started hoping.
+People became desperate and started hoping for a better world.
 
 [[The apocalyptic prophecies from the old testament]] and the new testament are fundamentally different in their message.
 
@@ -57,7 +57,7 @@ This tension between already there, but not yet complete is called the [[Eschato
 It fundamentally changes how people approach life.
 This means that we should not passively wait for the end but live and work between what was and what will be.
 There is no pressure to create a utopia by yourself, even when things go wrong, because the future is in god's hands. 
-This gives people security and self worth/
+This gives people security and self worth
 
 
 # References

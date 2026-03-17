@@ -17,5 +17,17 @@ In C, this is done by using clang and has multiple levels:
 - [[assembling]]
 - [[linking]]
 
+You can also add libraries to projects. This should be added in the header
+
+Joining and Formatting are done like this:
+printf("hello, %s", name)
+
+%s is a placeholder for a string "name". Other placeholders include:
+1. c
+2. f -> %.Xf for X decimal places
+3. i
+4. li
+
+
 
 # References

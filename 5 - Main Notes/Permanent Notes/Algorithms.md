@@ -11,6 +11,8 @@ An Algorithm is a step for step plan that solves a solvable problem. That means 
 
 There are different algorithms for different problems:
 - [[Sorting Algorithm]]
+- [[Searching Algorithms]]
+
 
 
 
