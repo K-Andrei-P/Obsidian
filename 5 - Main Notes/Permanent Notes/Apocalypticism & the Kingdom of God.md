@@ -37,9 +37,9 @@ This blueprint has flaws in it:
 Jesus flipped the Message:
 **Yours IS the Kingdom of God**
 
-This meant that the Kingdom of God was already amongst the people, through [[the teaches and miracles of Jesus]].
+This meant that the Kingdom of God was already amongst the people, through [[the teachings and miracles of Jesus]].
 
-This can be imaged like a growing tree.
+This can be imagined like a growing tree.
 
 The sapling is placed but has to be taken care of in order for it to grow.
 Taking care of it means:
@@ -50,7 +50,7 @@ Taking care of it means:
 
 --> Helping to complete the Kingdom of God
 
-This tension between already there, but not yet complete is called the [[Eschatological Reservation]] (Eschatologische Vorbehalt). 
+This discrepancy between "already there, but not yet complete" is called the [[Eschatological Reservation]] (Eschatologische Vorbehalt). 
 
 **How is this relevant today?**
 

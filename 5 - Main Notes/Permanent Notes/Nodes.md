@@ -18,6 +18,7 @@ Node Structure:
 	}
 
 The next attribute is a [[Pointer]] to the next Node.
+This can be imaged to be the [[Edge]] of a Graph
 
 
 

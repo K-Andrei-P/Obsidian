@@ -3,9 +3,11 @@
 Französisch:
 
 Napoleon:
-Deutsche Volk in Sachsen seien Aufgeklärt, Undankbar für Liberalität durch Knechtschaft gewöhnt.
+Deutsche Volk in Sachsen seien Aufgeklärt, Wären nicht Undankbar für Liberalität durch Knechtschaft gewöhnt.
 
 Code Civil
+
+Würden nicht zum Preußischen Königreich zurückkehren wollen
 
 Das Deutsche Volk Wünscht mehr Liberalismus, konstitutioneller Monarchie
 
@@ -18,14 +20,16 @@ Deutsche Sicht:
 
 Napoleon zerstört Frieden in Deutschland
 
-Hintergeht das mehr Völker
+Unterdrückt die Völker
 
-Franzosen als Feind.
+Napoleon als Feind.
 
 Durch Zorn vertilgt wertlose französische Sache
 
 Deutschland sei Mutig, treu und gut.
 
-Drückende Zeitverhältnisse durch Frankreich
 
-Napoleon als Tyrannen
+Wirtschaftliche ausbeutung
+"Das französische Joch"
+
+Napoleon als Tyrannen, nicht legitimer Herrscher, der das Deutsche Volk Unterdrückt und Ausbeutet

@@ -28,3 +28,5 @@ Equity
 
 Investing Professionally
 LP Return
+
+average lifespan of a fund is 10 Years
